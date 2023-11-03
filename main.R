@@ -25,11 +25,11 @@ generate.data <- function(){
   
   source('section.1.R')
   
-  source('plot.1.R')
+  source('plot.sec.1.R')
   
   source('section.2.R')
   
-  source('plot.2.R') 
+  source('plot.sec.2.R') 
   
 }
 
